@@ -1,2 +1,2 @@
-# Simple_CRUD_WEB_APP
-A simple CRUD (Create Read Update Delete) web application
+# Simple CRUD (Create Read Update Delete) Web App using PHP and MySQL
+This is a simple CRUD Web App
